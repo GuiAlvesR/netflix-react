@@ -1,0 +1,9 @@
+.banner {
+  height: 556px;
+  background-color: var(--background);
+  text-align: center;
+}
+
+.banner img {
+  width: 100%;
+}

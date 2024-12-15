@@ -1,0 +1,33 @@
+.media-list {
+  width: 214px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+  /* text-align: center; */
+}
+
+.media-list .header {
+  width: 214px;
+  height: 180px;
+  border-radius: 10px 10px 0 0;
+}
+
+.media-list .header img {
+  width: 100%;
+  height: 100%;
+}
+
+.media-list .footer {
+  background: #1c1c1c;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 0 0 10px 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.media-list .footer h4 {
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}

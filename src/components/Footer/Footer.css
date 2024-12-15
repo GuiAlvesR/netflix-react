@@ -1,0 +1,8 @@
+.footer {
+  background-color: var(--background);
+  text-align: center;
+}
+
+.footer img {
+  width: 100%;
+}
